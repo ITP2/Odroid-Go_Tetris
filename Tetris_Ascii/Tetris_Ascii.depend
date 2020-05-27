@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1590136642 source:c:\users\olli\documents\fh_technikum\2_semester\itp2\tetris_ascii\tetromino.cpp
+	<iostream>
+	"Tetromino.h"
+
+1588772447 source:c:\users\olli\documents\fh_technikum\2_semester\itp2\tetris_ascii\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstddef>
+	<conio.h>
+	"Game.h"
+	"Functions.h"
+
+1590586189 c:\users\olli\documents\fh_technikum\2_semester\itp2\tetris_ascii\field.h
+	"Tetromino.h"
+	<iostream>
+	<cstddef>
+
+1590069957 c:\users\olli\documents\fh_technikum\2_semester\itp2\tetris_ascii\tetromino.h
+	<iostream>
+	<cstddef>
+	<vector>
+
+1590586119 source:c:\users\olli\documents\fh_technikum\2_semester\itp2\tetris_ascii\field.cpp
+	"Field.h"
+
+1587900644 source:c:\users\olli\documents\fh_technikum\2_semester\itp2\tetris_ascii\functions.cpp
+	<iostream>
+	"Functions.h"
+
+1587900644 c:\users\olli\documents\fh_technikum\2_semester\itp2\tetris_ascii\functions.h
+	<iostream>
+	<windows.h>
+	<cstddef>
+	<vector>
+
+1590497938 c:\users\olli\documents\fh_technikum\2_semester\itp2\tetris_ascii\game.h
+	<iostream>
+	<cstddef>
+	<vector>
+	"Field.h"
+
+1590581967 source:c:\users\olli\documents\fh_technikum\2_semester\itp2\tetris_ascii\game.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Game.h"
+
